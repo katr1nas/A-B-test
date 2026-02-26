@@ -26,3 +26,37 @@ Ensure you have Python 3.x installed along with the required packages:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scipy
+```
+## Usage
+
+1. Clone this repository:
+
+```bash
+git clone <https://github.com/katr1nas/A-B-test>
+cd <repository_folder>
+```
+
+2. Open A/B test.ipynb in Jupyter Notebook or Google Colab.
+
+3. Run the notebook cells sequentially to generate data, clean it, visualize distributions, and perform statistical tests.
+
+4. Check the printed summary for t-statistic, p-value, and bootstrap confidence intervals.
+
+## Example Output
+
+- **T-statistic, p-value, and 95% bootstrap confidence interval for the difference in session durations.**
+
+- **Visualization of session duration distribution and conversion rates by group.**
+
+Contributing
+
+Contributions are welcome! Please create a pull request or open an issue for any improvements or suggestions.
+
+License
+
+This project is open-source and available under the MIT License.
+
+
+I can also draft a **shorter, GitHub-friendly version with badges and a minimalistic style** if you want something more modern for your repo homepage.  
+
+Do you want me to make that version too?
